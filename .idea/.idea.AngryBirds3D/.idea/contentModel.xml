@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\leo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\leo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_AngryBirds3D.-1185774949.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Projects\AngryBirds3D" t="IncludeRecursive">
+      <e p="AngryBirds3D.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BaseBird.cs" t="Include" />
+          <e p="Bird.cs" t="Include" />
+          <e p="BirdFactory.cs" t="Include" />
+          <e p="Birds" t="Include">
+            <e p="RedBird.cs" t="Include" />
+            <e p="YellowBird.cs" t="Include" />
+          </e>
+          <e p="Block.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="InterractiveObject.cs" t="Include" />
+          <e p="Pig.cs" t="Include" />
+          <e p="SlingShotController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
